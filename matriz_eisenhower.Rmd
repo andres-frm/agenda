@@ -53,17 +53,17 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 \pagebreak
 
-# Impostergable 
+# Prioridad I 
 
 ### Salir a campo
 - Colectar estilos en otros lotes.
-**para miércoles 11/08 - 12/08**
-- Organizar GPS. 
-**OK!!**
+**para viernes 13/08 y sábado 14/18**
+- ~~Organizar GPS.~~
+
 - Experimentos de frutos. 
-**Revisar miércoles 11/08**
-- Fincas para muestreo SURPASS: Finca Azul, Río Seco y Amankay
-**Revisar miércoles 11/08**
+**Revisar viernes 13/08**
+- ~~Revisión fincas SURPASS: Finca Azul, Río Seco y Amankay~~
+
 
 ### Cap 1 de la tesis 
 continuar con la discusión.
@@ -91,9 +91,13 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 - Heumann & schomaker 2016
 - Field et al 2012.
 
+------------------------------------
+
+# Prioridad II
+
 ----------------------------------------
 
-# Hay tiempo
+# Prioridad III
 
 ### Planillas SURPASS
 - Datos 2020 colibrís Nachu
@@ -105,12 +109,10 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 ### Laboratorio
 - Conteo de granos de polen. ¿Contratar a Lorena?
 
-------------------------------------
 
-# Evacuar
 
 ------------------------------------
-# Puede esperar
+# Prioridad IV
 
 ### Datos Jayne filóstomidos  
 - preparar planillas en el formato sugerido (entrega antes de la segunda 
