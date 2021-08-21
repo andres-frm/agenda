@@ -30,7 +30,8 @@ tareas <- tribble(
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
-     "CCM", 5, 3
+     "CCM", 5, 3,
+     "Presentación interacciónes", 3, 3
 )
 
 library(ggplot2)
@@ -126,6 +127,12 @@ Similar a congreso e incluir algo de los experimentos de polinización
 - Pago: 130 mil COP **17 sep**
 - Envío resumen: **25 oct**
 - Realización: **22 - 26 nov**
+
+### Presentación interacciones
+- 16.sep, a las 10 h
+- 15 min expo (similar a la de la RAE)
+
+
 
 
 
