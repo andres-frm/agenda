@@ -58,12 +58,12 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 ### Salir a campo
 - Colectar estilos en otros lotes.
-**para viernes 13/08 y sábado 14/18**
-- ~~Organizar GPS.~~
+**para viernes 26/08**
 
 - Experimentos de frutos. 
-**Revisar viernes 13/08**
-- ~~Revisión fincas SURPASS: Finca Azul, Río Seco y Amankay~~
+**Revisar viernes 26/08**
+- ~~Polinización SURPASS~~
+- Bolsas experimentos (Río Seco y Finca Azul). 
 
 
 ### Cap 1 de la tesis 
@@ -120,8 +120,7 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 semana de septiembre).
 
 ### Presentación UNRC
-1 nov
-Similar a congreso e incluir algo de los experimentos de polinización
+- Similar a congreso e incluir algo de los experimentos de polinización **1 nov**
 
 ### CCM
 - Pago: 130 mil COP **17 sep**
