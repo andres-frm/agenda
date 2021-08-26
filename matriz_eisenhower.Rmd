@@ -31,7 +31,8 @@ tareas <- tribble(
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
      "CCM", 5, 3,
-     "Presentación interacciónes", 3, 3
+     "Presentación interacciónes", 3, 3,
+     "outline paper SURPASS", 4, 8
 )
 
 library(ggplot2)
