@@ -32,7 +32,8 @@ tareas <- tribble(
      "Presentasión UNRC", 4, 3,
      "CCM", 5, 3,
      "Presentación interacciónes", 3, 3,
-     "outline paper SURPASS", 4, 8
+     "outline paper SURPASS", 4, 8,
+     "libro arándano", 3, 2
 )
 
 library(ggplot2)
@@ -98,6 +99,7 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 # Prioridad II
 
 - Outline idea de paper SURPASS *15 sep*
+- Capítulo visitantes florales del arándano *octubre*
 
 ----------------------------------------
 
