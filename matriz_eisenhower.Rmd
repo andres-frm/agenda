@@ -26,14 +26,13 @@ tareas <- tribble(
      "programación", 10, 6,
      "datos Jayne filostómidos", 4, 5,
      "laboratorio", 10, 4,
-     "AA rendición", 10, 7,
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
      "CCM", 5, 3,
      "Presentación interacciónes", 3, 3,
      "outline paper SURPASS", 4, 8,
-     "libro arándano", 3, 2
+     "libro arándano", 2, 2
 )
 
 library(ggplot2)
