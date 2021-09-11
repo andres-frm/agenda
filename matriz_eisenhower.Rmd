@@ -23,14 +23,11 @@ tareas <- tribble(
      "clínica de datos", 6, 7,
      "curso estadística", 10, 6,
      "programación", 10, 6,
-     "datos Jayne filostómidos", 4, 5,
      "laboratorio", 10, 4,
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
-     "CCM", 5, 3,
      "Presentación interacciónes", 3, 3,
-     "outline paper SURPASS", 4, 8,
      "libro arándano", 2, 2
 )
 
@@ -57,17 +54,12 @@ ggplot(tareas, aes(urgencia, importancia)) +
 # Prioridad I 
 
 ### Salir a campo
-- Colectar estilos en otros lotes.
-**para viernes 26/08**
+- fructificación.
 
 - Experimentos de frutos. 
-**Revisar viernes 26/08**
-- ~~Polinización SURPASS~~
+
 - Bolsas experimentos (Río Seco y Finca Azul). 
 
-
-### Cap 1 de la tesis 
-continuar con la discusión.
 
 ### Rendición AA
 - Preparar las planillas con facturas.
@@ -96,7 +88,7 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 
 # Prioridad II
 
-- Outline idea de paper SURPASS *15 sep*
+
 
 
 ----------------------------------------
@@ -118,17 +110,8 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 ------------------------------------
 # Prioridad IV
 
-### Datos Jayne filóstomidos  
-- preparar planillas en el formato sugerido (entrega antes de la segunda 
-semana de septiembre).
-
 ### Presentación UNRC
 - Similar a congreso e incluir algo de los experimentos de polinización **1 nov**
-
-### CCM
-- Pago: 130 mil COP **17 sep**
-- Envío resumen: **25 oct**
-- Realización: **22 - 26 nov**
 
 ### Presentación interacciones
 - 16.sep, a las 10 h
