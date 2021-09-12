@@ -61,12 +61,6 @@ ggplot(tareas, aes(urgencia, importancia)) +
 - Bolsas experimentos (Río Seco y Finca Azul). 
 
 
-### Rendición AA
-- Preparar las planillas con facturas.
-- Preparar informe de avance. **Plazo vence 30/09**
-- Solicitar a Carlitos carta de uso de kangoo.
-
-
 ### Clínica de datos
 Proyecto docente: 
 La idea es editar una compilación de las actividades del curso, contenidos y resultados de ejercicios, como un resultado o producto del curso. La propuesta en principio generará el guión de la obra y los índices de contenidos. Posteriormente, se propone editarlo como bookdown. Los docentes presentarán el guión como un proyecto en rol de estudiante, por lo que parte de los contenidos son los proyectos grupales e individuales. Por lo tanto, hay objetivos a nivel docencia y gestión del sistema de aprendizaje, y otros objetivos específicos de los ejercicios de proyecto individual y proyecto grupal.
