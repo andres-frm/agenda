@@ -27,8 +27,8 @@ tareas <- tribble(
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
-     "Presentación interacciónes", 3, 3,
-     "libro arándano", 2, 2
+     "libro arándano", 2, 2,
+     "ms morpho phyllo", 3, 4
 )
 
 library(ggplot2)
@@ -97,7 +97,7 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 - Redactar considerando experimentos de polinización y eficiencia.
 
 ### Laboratorio
-- Conteo de granos de polen. ¿Contratar a Lorena?
+- Conteo de granos de polen
 
 
 
@@ -107,12 +107,11 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 ### Presentación UNRC
 - Similar a congreso e incluir algo de los experimentos de polinización **1 nov**
 
-### Presentación interacciones
-- 16.sep, a las 10 h
-- 15 min expo (similar a la de la RAE)
-
 ## SURPASS
 - Capítulo visitantes florales del arándano *octubre*
+
+## Ms morpho phyllo
+- preparar ms outline y figuras
 
 
 
