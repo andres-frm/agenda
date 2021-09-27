@@ -28,7 +28,8 @@ tareas <- tribble(
      "Planillas tesis", 10, 6,
      "Presentasión UNRC", 4, 3,
      "libro arándano", 2, 2,
-     "ms morpho phyllo", 3, 4
+     "ms morpho phyllo", 3, 4,
+     "Paisaje SURPASS", 8, 7
 )
 
 library(ggplot2)
@@ -77,6 +78,9 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 - Schomaker & Thomen 2013 (scripts R)
 - Heumann & schomaker 2016
 - Field et al 2012.
+
+#### Digitalización paisaje SURPASS
+- GEE
 
 ------------------------------------
 
