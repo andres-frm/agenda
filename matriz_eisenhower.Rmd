@@ -18,16 +18,12 @@ library(tibble)
 
 tareas <- tribble(
      ~ tarea, ~ importancia, ~ urgencia,
-     "trabajo campo", 10, 10,
      "planillas SURPASS", 8, 4,
-     "clínica de datos", 6, 7,
      "curso estadística", 10, 6,
      "programación", 10, 6,
-     "laboratorio", 10, 4,
+     "laboratorio", 10, 9,
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
-     "Presentasión UNRC", 4, 3,
-     "libro arándano", 2, 2,
      "ms morpho phyllo", 3, 4,
      "Paisaje SURPASS", 8, 7
 )
@@ -54,17 +50,6 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad I 
 
-### Salir a campo
-- fructificación.
-
-- Experimentos de frutos. 
-
-- Bolsas experimentos (Río Seco y Finca Azul). 
-
-
-### Clínica de datos
-Proyecto docente: 
-La idea es editar una compilación de las actividades del curso, contenidos y resultados de ejercicios, como un resultado o producto del curso. La propuesta en principio generará el guión de la obra y los índices de contenidos. Posteriormente, se propone editarlo como bookdown. Los docentes presentarán el guión como un proyecto en rol de estudiante, por lo que parte de los contenidos son los proyectos grupales e individuales. Por lo tanto, hay objetivos a nivel docencia y gestión del sistema de aprendizaje, y otros objetivos específicos de los ejercicios de proyecto individual y proyecto grupal.
 
 ### Planillas tesis
 - Organizar datos campaña 2020.
@@ -74,7 +59,6 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 - Wickham 2016 
 
 ### Estadística
-- Curso
 - Schomaker & Thomen 2013 (scripts R)
 - Heumann & schomaker 2016
 - Field et al 2012.
@@ -107,12 +91,6 @@ La idea es editar una compilación de las actividades del curso, contenidos y re
 
 ------------------------------------
 # Prioridad IV
-
-### Presentación UNRC
-- Similar a congreso e incluir algo de los experimentos de polinización **1 nov**
-
-## SURPASS
-- Capítulo visitantes florales del arándano *octubre*
 
 ## Ms morpho phyllo
 - preparar ms outline y figuras
