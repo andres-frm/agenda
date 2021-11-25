@@ -18,14 +18,15 @@ library(tibble)
 
 tareas <- tribble(
      ~ tarea, ~ importancia, ~ urgencia,
-     "planillas SURPASS", 8, 4,
+     "planillas SURPASS", 8, 8,
      "curso estadística", 10, 6,
      "programación", 10, 6,
      "laboratorio", 10, 9,
      "escritura ms cap 2", 10, 4,
      "Planillas tesis", 10, 6,
      "ms morpho phyllo", 3, 4,
-     "Paisaje SURPASS", 8, 7
+     "Paisaje SURPASS", 8, 7,
+     "Libro clínica D", 8, 4
 )
 
 library(ggplot2)
@@ -50,9 +51,15 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad I 
 
+### Cursos estadística
+- Modelos y datos en Ecología (6-10 diciembre)
+
+### Laboratorio
+- Cargas polínicas estigmáticas (polinizadores - lotes)
 
 ### Planillas tesis
-- Organizar datos campaña 2020.
+- Organizar datos campaña 2021 (variedades vecinas).
+- Planillas SURPASS 2021 (picaflores 2020)
 
 ### Programación
 - Norman Mathloff 2011
@@ -70,6 +77,9 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad II
 
+### Libro
+- clínica de datos 
+
 
 
 
@@ -77,15 +87,8 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad III
 
-### Planillas SURPASS
-- Datos 2020 colibrís Nachu
-- Datos campaña 2021
-
 ### Manuscrito cap 2 tesis
 - Redactar considerando experimentos de polinización y eficiencia.
-
-### Laboratorio
-- Conteo de granos de polen
 
 
 
