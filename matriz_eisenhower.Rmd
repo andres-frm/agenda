@@ -18,15 +18,13 @@ library(tibble)
 
 tareas <- tribble(
      ~ tarea, ~ importancia, ~ urgencia,
-     "planillas SURPASS", 8, 8,
-     "curso estadística", 10, 6,
-     "programación", 10, 6,
-     "laboratorio", 10, 9,
-     "escritura ms cap 2", 10, 4,
-     "Planillas tesis", 10, 6,
-     "ms morpho phyllo", 3, 4,
-     "Paisaje SURPASS", 8, 7,
-     "Libro clínica D", 8, 4
+     "Estudiar", 10, 8,
+     "laboratorio", 10, 10,
+     "tesis (caps 2 - 3)", 10, 9,
+     "ms morpho phyllo", 5, 4,
+     "Paisaje SURPASS", 8, 8,
+     "Libro clínica D", 4, 5,
+     "Planillas", 10, 10
 )
 
 library(ggplot2)
@@ -51,34 +49,42 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad I 
 
-### Cursos estadística
-- Modelos y datos en Ecología (6-10 diciembre)
-
 ### Laboratorio
-- Cargas polínicas estigmáticas (polinizadores - lotes)
+- Cargas polínicas estigmáticas: insectos (falta 20%), picaflores (falta 100%) y cap 3 (escalas paisaje y finca 100% c/u)
+
+\vspace{5mm}
 
 ### Planillas tesis
-- Organizar datos campaña 2021 (variedades vecinas).
-- Planillas SURPASS 2021 (picaflores 2020)
+- Datos fruit set de algunas fincas (SURPASS)
+- Datos variedades (cap 3)
 
-### Programación
+\vspace{5mm}
+
+### Estudiar
 - Norman Mathloff 2011
 - Wickham 2016 
-
-### Estadística
 - Schomaker & Thomen 2013 (scripts R)
 - Heumann & schomaker 2016
 - Field et al 2012.
 
-#### Digitalización paisaje SURPASS
+\vspace{5mm}
+
+### Paisaje SURPASS
 - GEE
+
+\vspace{5mm}
+
+### tesis
+- Escribir intro
+- Traducir cap 1
+- Escribir cap 2 y 3 (introducción y métodos)
+- Definir si el cap 2 lo tratamos como 2 arts independientes
+- Conclusión
+
 
 ------------------------------------
 
 # Prioridad II
-
-### Libro
-- clínica de datos 
 
 
 
@@ -87,16 +93,18 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 # Prioridad III
 
-### Manuscrito cap 2 tesis
-- Redactar considerando experimentos de polinización y eficiencia.
-
 
 
 ------------------------------------
 # Prioridad IV
 
+### Libro
+- clínica de datos 
+
+\vspace{5mm}
+
 ## Ms morpho phyllo
-- preparar ms outline y figuras
+- Analizar datos y escribir intro
 
 
 
