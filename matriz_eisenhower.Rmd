@@ -19,12 +19,11 @@ library(tibble)
 tareas <- tribble(
      ~ tarea, ~ importancia, ~ urgencia,
      "Estudiar", 10, 8,
-     "laboratorio", 10, 10,
-     "tesis (caps 2 - 3)", 10, 9,
+     "laboratorio", 10, 9,
+     "tesis", 10, 10,
      "ms morpho phyllo", 5, 4,
-     "Paisaje SURPASS", 8, 8,
-     "Libro clínica D", 4, 5,
-     "Planillas", 10, 10
+     "Libro clínica D", 4, 3,
+     "proyecto syngenta", 8, 3
 )
 
 library(ggplot2)
@@ -76,10 +75,11 @@ ggplot(tareas, aes(urgencia, importancia)) +
 
 ### tesis
 - Escribir intro
-- Traducir cap 1
-- Escribir cap 2 y 3 (introducción y métodos)
-- Definir si el cap 2 lo tratamos como 2 arts independientes
-- Conclusión
+- cap 1: traducir a español.
+- cap 2: Fuzzy logic. Generar el modelo fuzzy con el paquete `frbs`, para ajustar funciones trapezoidales en los valores extremos de las variables linguísticas. ESto, en efecto deberá incluir alguna adaptación de las reglas fuzzy.
+- cap 3: efectividad de polinización. Escribir intro.
+- cap 4: SURPASS. LCC en ARG. Coordinar con Lorena la unificación de las bases de datos.
+
 
 
 ------------------------------------
